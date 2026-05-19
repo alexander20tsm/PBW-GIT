@@ -1,1 +1,3 @@
-node_modules/, *.class, atau .env
+node_modules/
+*.class
+.env
